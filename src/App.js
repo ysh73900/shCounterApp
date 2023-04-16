@@ -8,7 +8,7 @@ import {
 import "./styles/Home.css";
 
 export default function Home() {
-  const contractAddress = "0x3db71a58a48F3Ca96483F5aD15f2d45F88f6f7D8";
+  const contractAddress = "0xF07F475fd564B19967668e4E5CbE4679bCEBa69A";
   const { contract } = useContract(contractAddress);
 
   // get
