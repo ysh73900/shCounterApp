@@ -35,15 +35,9 @@ export default function Home() {
   return (
     <div className="container">
       <main className="main">
-        <h1 className="title">
-          Welcome to <a href="https://thirdweb.com/">thirdweb</a>!
-        </h1>
+        <h1 className="title">Welcome to DappCounter</h1>
 
-        <p className="description">
-          Get started by configuring your desired network in{" "}
-          <code className="code">src/index.js</code>, then modify the{" "}
-          <code className="code">src/App.js</code> file!
-        </p>
+        <p className="description">91812866 이승훈 DappCounter</p>
 
         <div className="connect">
           <ConnectWallet
